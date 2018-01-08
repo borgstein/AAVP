@@ -1,0 +1,4 @@
+ofxGui
+ofxMaxim
+ofxOpenCv
+ofxTextSuite

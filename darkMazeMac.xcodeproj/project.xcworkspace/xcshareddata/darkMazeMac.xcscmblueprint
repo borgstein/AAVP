@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "511C3193CBACE359AD48B7CA82339985A9B9F20C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9EA75D55FA54A28D61D05E99737654AEBBBF0FB9" : 9223372036854775807,
+    "511C3193CBACE359AD48B7CA82339985A9B9F20C" : 9223372036854775807,
+    "7D7EC3C29EF79929D82563AF7E4C175E0FC52A89" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C2DE99B9-2989-40DB-AC07-98D65DF881BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9EA75D55FA54A28D61D05E99737654AEBBBF0FB9" : "..\/..\/addons\/ofxMaxim",
+    "511C3193CBACE359AD48B7CA82339985A9B9F20C" : "darkMazeMac\/",
+    "7D7EC3C29EF79929D82563AF7E4C175E0FC52A89" : "..\/..\/addons\/ofxTextSuite"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "darkMazeMac",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "darkMazeMac.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lpOX4G\/Dark-Maze-Mac.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "511C3193CBACE359AD48B7CA82339985A9B9F20C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Furkanzmc\/ofxTextSuite",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D7EC3C29EF79929D82563AF7E4C175E0FC52A89"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/falcon4ever\/ofxMaxim.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9EA75D55FA54A28D61D05E99737654AEBBBF0FB9"
+    }
+  ]
+}
